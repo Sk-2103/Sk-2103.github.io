@@ -9,4 +9,7 @@ paperurl: "https://doi.org/10.1002/esp.5342"
 citation: "Kaushik, S.*, Singh, T., Bhardwaj, A., & Joshi, P.K. (2021). Long-term spatiotemporal variability in the glacier surface velocity of Eastern Himalayan glaciers, India. Earth Surface Processes and Landforms."
 ---
 
-![Long-term spatiotemporal variability in the glacier surface velocity of Eastern Himalayan glaciers, India](../images/ESP.jpg)
+
+<p align="center">
+    <img src="../images/ESP.jpg" alt="Climate change drives glacier retreat" width="60%">
+</p>
