@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Saurabh Kaushik"
+title                    : "Saurabh Kaushik-Geospatial Data Scientist"
 title_separator          : "-"
 name                     : &name "Saurabh Kaushik"
 description              : &description "personal description"
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Tucson, AZ"
-  employer         : "Red Brick University"
+  employer         : "The University of Arizona"
   uri              : # URL
   email            : "skaushik@arizona.edu, saurabh21.kaushik@gmail.com" 
 
