@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-02-01-paper-title-number-1
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2025
+date: 2025-02-01
 venue: 'Water Resources Research'
 #slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: ' https://doi.org/10.1029/2024WR038279'
