@@ -13,10 +13,8 @@ citation: "Kaushik, S.*, Singh, T., Joshi, P.K., & Dietz, A.J. (2022). Automated
     <figure style="text-align: center;">
         <img src="../images/AEO3.jpg" alt="AEO1" style="width: 45%;">
         <figcaption style="font-size: 14px; color: gray;"> Proposed light-weight DL model (GLNet) for glacial lake mapping. 
-    </figure>
-    <figure style="text-align: center;">
-        <img src="../images/AEO1.jpg" alt="AEO2" style="width: 45%;">
-        <figcaption style="font-size: 14px; color: gray;"> Example of precise glacial lake mapping using GLNet
-    </figure>
-</div>
+ <figure style="text-align: center;">
+    <img src="../images/AEO1.jpg" alt="AEO2" style="width: 45%;">
+    <figcaption style="font-size: 14px; color: gray;"> Example of precise glacial lake mapping using GLNet
+   
 
