@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Saurabh Kaushik"
 title_separator          : "-"
 name                     : &name "Saurabh Kaushik"
 description              : &description "personal description"
@@ -23,10 +23,10 @@ repository               : "Sk-2103.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Saurabh Kaushik"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Tucson, AZ"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "skaushik@arizona.edu, saurabh21.kaushik@gmail.com" 
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/Sk-2103"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/saurabh-kaushik-552613129/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
