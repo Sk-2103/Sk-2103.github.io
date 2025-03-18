@@ -10,7 +10,7 @@ citation: "Dharpure, J.K., Howat, I.M., & Kaushik, S. (2024). Declining Groundwa
 ---
 
 <figure style="text-align: center;">
-    <img src="../images/SRS.jpg" alt="Landslide Susceptibility Assessment" style="width: 60%;">
+    <img src="../images/SRS.jpg" alt="Landslide Susceptibility Assessment" style="width: 70%;">
     <figcaption style="font-size: 14px; color: gray;">
         Figure: Monthly multi-model Leader predictions of TWSA during the GRACE and GRACE-FO data gap (July 2017 to May 2018). Black boxes and circles highlight extreme events (drought and flood), while light green and light blue circles indicate strong seasonal variations in predicted TWSA.
     </figcaption>
