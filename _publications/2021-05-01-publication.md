@@ -10,6 +10,9 @@ citation: "Kaushik, S.*, Singh, T., Bhardwaj, A., & Joshi, P.K. (2021). Long-ter
 ---
 
 
-<p align="center">
-    <img src="../images/ESP.jpg" alt="Climate change drives glacier retreat" width="60%">
-</p>
+<figure style="text-align: center;">
+    <img src="../images/ESP.jpg" alt="Landslide Susceptibility Assessment" style="width: 60%;">
+    <figcaption style="font-size: 14px; color: gray;">
+        Figure: Temporal snapshot of Zemu glacial slowndown situtated in Sikkim Himalaya. 
+    </figcaption>
+</figure>
