@@ -12,8 +12,8 @@ citation: 'Dharpure, J. K., Howat, I. M., & Kaushik, S. (2025). Declining ground
 ---
 
 <figure style="text-align: center;">
-    <img src="../images/WRR.png" alt="Spatial distribution of GWSA trends" width="50%">
+    <img src="../images/WRR1.jpg" alt="Landslide Susceptibility Assessment" style="width: 60%;">
     <figcaption style="font-size: 14px; color: gray;">
-        Figure: Spatial distribution of GWSA trends at seasonal scales (a–d) and annually (e), with significance levels at p < 0.05. (f) Shows the heatmap of monthly GWSA values and their corresponding mean monthly and annual values from April 2002 to May 2023.
+        Figure: Landslide susceptibility assessment at the landscape level using multivariate analysis coupled with statistical algorithms – An insight from India’s Kailash Sacred Landscape, Western Himalaya.
     </figcaption>
 </figure>
