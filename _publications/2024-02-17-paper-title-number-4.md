@@ -9,4 +9,4 @@ paperurl: "https://doi.org/10.1016/j.rse.2024.114413"
 citation: "Tang, Q., Zhang, G., Yao, T., Wieland, M., Liu, L., & Kaushik, S. (2024). Automatic extraction of glacial lakes from Landsat imagery using deep learning across the Third Pole. Remote Sensing of Environment."
 ---
 
-![Automatic Glacial Lake Extraction](../images/RSE.png)
+![Automatic Glacial Lake Extraction](../images/RSE.jpg)
