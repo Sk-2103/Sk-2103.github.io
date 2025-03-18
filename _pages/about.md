@@ -23,9 +23,9 @@ Academic Achievements
 
 News
 ======
-1. Feburary 2025: read our new article published in _Water Resources Research_ about deciling Groundwater Storage in the Indus Basin, now available [here](https://doi.org/10.1029/2024WR038279)  
-1. Feburary 2025: read our new article published in _Science of Remote Sensing_  [here](https://doi.org/10.1016/j.srs.2025.100198) about imporved and consistent GRACE-GRACE FO data.
-1. September 2024: read our new article published in _Remote Sensing of Environment_  [here](https://doi.org/10.1016/j.rse.2024.114413) about most update glacial lake inventory in HMA. 
+1. Feburary 2025: read our new article published in _Water Resources Research_ about Declining Groundwater Storage in the Indus Basin, now available [here](https://doi.org/10.1029/2024WR038279)  
+1. Feburary 2025: read our new article published in _Science of Remote Sensing_  [here](https://doi.org/10.1016/j.srs.2025.100198) about imporved and consistent GRACE-GRACE FO data using machine learning.
+1. September 2024: read our new article published in _Remote Sensing of Environment_  [here](https://doi.org/10.1016/j.rse.2024.114413) about most update glacial lake inventory in HMA using deep learning. 
 1. July 2024: read our new article published in _Remote Sensing Applications: Society and Environment_ [here](https://doi.org/10.1016/j.rsase.2024.101286) about increasing risk of Glacial lake Outburst Flood in Sikkim.
 1. May 2024: Joined Social-Pixel lab at University of Arizona as an Postdoctral Research Associate.
    
