@@ -10,7 +10,7 @@ citation: "Kaushik, S., Maurya, L., Tellman, B., Zhang, Z., & Dharpure, J.K. (20
 ---
 
 <figure style="text-align: center;">
-    <img src="../images/clay.pdf" alt="Landslide Susceptibility Assessment" style="width: 60%;">
+    <img src="../images/CVPR.jpg" alt="Landslide Susceptibility Assessment" style="width: 60%;">
     <figcaption style="font-size: 14px; color: gray;">
         Figure:Fine-tuning clay geo-foundational model for flood inundation mapping
     </figcaption>
