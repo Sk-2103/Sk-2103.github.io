@@ -13,6 +13,6 @@ citation: "Kaushik, S.*, Dharpure, J.K., Joshi, P.K., Ramanathan, A.L., & Singh,
 <figure style="text-align: center;">
     <img src="../images/Geocarto.jpg" alt="Landslide Susceptibility Assessment" style="width: 60%;">
     <figcaption style="font-size: 14px; color: gray;">
-        Figure: Features of some major glaciers with snout visible in 2017 satellite data. ACC-Z, accumulationzone; ABL-Z, ablation-zone; TSL-Z, transition zone; MM; medieval moraine; SGD, supraglacial debris;DGV, de-glaciated valley.1186 S. KAUSHIK ET AL.
+        Figure: Features of some major glaciers with snout visible in 2017 satellite data. ACC-Z, accumulationzone; ABL-Z, ablation-zone; TSL-Z, transition zone; MM; medieval moraine; SGD, supraglacial debris;DGV, de-glaciated valley.
     </figcaption>
 </figure>
