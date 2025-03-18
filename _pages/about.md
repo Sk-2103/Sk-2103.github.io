@@ -13,21 +13,21 @@ I earned a bi-nationally supervised Doctoral Degree from the Academy of Scientif
 
 Academic Achievements
 ======
-2024 Young Scientist travel Award to attend Debris Cover Glacier Workshop, ISTA Austria (1000$)
-2023
-Professional development/travel award: Office of Postdoctoral affair, OSU USA. (700$).
-2022
-IASC Early Career Scientist travel award for attending ISMASS workshop, Reykjavik. (1500 $).
-2019
-DAAD-Bi-nationally supervised doctoral degree fellowship (~24000 Euro).
-2019
-Best poster award “Third” at 5th International YES Congress, Berlin (Certificate and Book).
-2019
-DST-International Travel Support to attend 5th International YES Congress, Berlin (~1500 $).
-2018
-Innovation in Science Pursuit for Inspired Research (INSPIRE), DST-India (~13,000 $)
-2014-16
-University Gold Medalist during M.Sc. (Certificate).
+1. 2025 Young Scientist travel Award to attend Debris Cover Glacier Workshop, ISTA Austria (1000$)
+
+1. 2024 Professional development/travel award: Office of Postdoctoral affair, OSU USA. (700$).
+   
+1. 2019 IASC Early Career Scientist travel award for attending ISMASS workshop, Reykjavik. (1500 $).
+  
+1. 2019 DAAD-Bi-nationally supervised doctoral degree fellowship (~24000 Euro).
+
+1. 2019 Best poster award “Third” at 5th International YES Congress, Berlin (Certificate and Book).
+
+1. 2019- DST-International Travel Support to attend 5th International YES Congress, Berlin (~1500 $).
+   
+1. 2018- Innovation in Science Pursuit for Inspired Research (INSPIRE), DST-India (~13,000 $)
+  
+1. 2016- University Gold Medalist during M.Sc. (Certificate).
 
 News
 ======
