@@ -9,3 +9,9 @@ paperurl: ""
 citation: "Kaushik, S., Maurya, L., Tellman, B., Zhang, Z., & Dharpure, J.K. (2025). Learning more with Less: Advancing flood Inundation mapping using geo-foundational models. CVPR EarthVision 2025 (Submitted)."
 ---
 
+<figure style="text-align: center;">
+    <img src="../images/clay.pdf" alt="Landslide Susceptibility Assessment" style="width: 60%;">
+    <figcaption style="font-size: 14px; color: gray;">
+        Figure:Fine-tuning clay geo-foundational model for flood inundation mapping
+    </figcaption>
+</figure>
