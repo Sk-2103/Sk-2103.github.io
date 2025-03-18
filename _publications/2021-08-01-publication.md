@@ -10,7 +10,7 @@ citation: "Kaushik, S.*, Singh, T., Bhardwaj, A., Joshi, P.K., & Dietz, A.J. (20
 ---
 
 <figure style="text-align: center;">
-    <img src="../images/RS.jpg" alt="Landslide Susceptibility Assessment" style="width: 60%;">
+    <img src="../images/RS.png" alt="Landslide Susceptibility Assessment" style="width: 60%;">
     <figcaption style="font-size: 14px; color: gray;">
         Figure: Supraglacial debris mapping usign deep learning.
     </figcaption>
