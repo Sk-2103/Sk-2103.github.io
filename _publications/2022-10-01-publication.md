@@ -10,6 +10,12 @@ citation: "Kaushik, S.*, Singh, T., Joshi, P.K., & Dietz, A.J. (2022). Automated
 ---
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="../images/AEO1.jpg" alt="AEO1" style="width: 45%;">
-    <img src="../images/AEO2.jpg" alt="AEO2" style="width: 45%;">
+    <figure style="text-align: center;">
+        <img src="../images/AEO1.jpg" alt="AEO1" style="width: 45%;">
+        <figcaption style="font-size: 14px; color: gray;"> Example of precise glacail lake mapping using GLNet>
+    </figure>
+    <figure style="text-align: center;">
+        <img src="../images/AEO2.jpg" alt="AEO2" style="width: 45%;">
+        <figcaption style="font-size: 14px; color: gray;">Applicability of GLNet over large region>
+    </figure>
 </div>
