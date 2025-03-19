@@ -41,7 +41,7 @@ permalink: /conference/
   [Link](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1591053)
 
 <figure style="text-align: center;">
-    <img src="../images/AGU3.png" alt="Landslide Susceptibility Assessment" style="width: 60%;">
+    <img src="../images/AGU3.png" alt="Landslide Susceptibility Assessment" style="width: 80%;">
     <figcaption style="font-size: 14px; color: gray;">
         Figure: Global map of potential geological hydrogen sites using deep learning and multisource remote sensing data.
     </figcaption>
