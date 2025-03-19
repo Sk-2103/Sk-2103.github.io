@@ -40,11 +40,12 @@ permalink: /conference/
   *AGU Fall Meeting 2024*  
   [Link](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1591053)
 
-  <figure style="text-align: center;">
-    <img src="../images/AGU1.png" alt="Landslide Susceptibility Assessment" style="width: 60%;">
+<figure style="text-align: center;">
+    <img src="../images/AGU3.png" alt="Landslide Susceptibility Assessment" style="width: 60%;">
     <figcaption style="font-size: 14px; color: gray;">
-        Figure: Global map of potentinal geo-logical hydrogen sites using deep learning and multisource remote sensing data.
+        Figure: Global map of potential geological hydrogen sites using deep learning and multisource remote sensing data.
     </figcaption>
+</figure>
 
 - **Kaushik Saurabh, Tellman Beth, Zhijie Zhang, Rohit Mukherjee**  
   *Improving urban flood inundation observations using multisource remote sensing data and masked autoencoder-based transformers*  
