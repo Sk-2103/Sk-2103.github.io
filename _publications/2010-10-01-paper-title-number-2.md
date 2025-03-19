@@ -3,7 +3,6 @@ title: "Conference Presentations"
 collection: publications
 category: conferences
 permalink: /conference/
-date: 2024-01-01
 ---
 
 ## Conferences
