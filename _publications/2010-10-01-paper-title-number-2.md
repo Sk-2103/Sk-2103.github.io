@@ -46,8 +46,6 @@ date: 2024-01-01
     <figcaption style="font-size: 14px; color: gray;">
         Figure: Global map of potentinal geo-logical hydrogen sites using deep learning and multisource remote sensing data.
     </figcaption>
-</figure>
-
 
 - **Kaushik Saurabh, Tellman Beth, Zhijie Zhang, Rohit Mukherjee**  
   *Improving urban flood inundation observations using multisource remote sensing data and masked autoencoder-based transformers*  
