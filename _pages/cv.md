@@ -11,12 +11,14 @@ redirect_from:
 
 Education
 ======
-* **Academy of Scientific and Innovative Reseach (AcSIR)****-Central Scientific Instruments Organisation (CSIO)**, India (2023).
-* _Ph.D (Earth & Enviromental Sciences) _ CGPA (8.6/10)
-* _Specialization: Remote Sensing, Glaciology, Deep Learning and Image Processing _
-* Coursework: Digital Image Processing, Signal Processing, Research Methodology, Advanced Self Study
-* M.Sc. Remote Sensing & GIS, Kumaun University, Nainital, India.
-* Coursework: Remote Sensing, GIS, Sptial Mathematics, GPS, Digital Image Proessing, Cartography.
+**Academy of Scientific and Innovative Reseach (AcSIR)****-Central Scientific Instruments Organisation (CSIO)**, India (2023).
+_Ph.D (Earth & Enviromental Sciences)_ _ CGPA (8.6/10)
+_Specialization: Remote Sensing, Glaciology, Deep Learning and Image Processing_.
+Coursework: Digital Image Processing, Signal Processing, Research Methodology, Advanced Self Study.
+
+**Kumaun University, Nainital, India.**
+_M.Sc. Remote Sensing & GIS, _
+_Coursework: Remote Sensing, GIS, Sptial Mathematics, GPS, Digital Image Proessing, Cartography._
 
 
 Work experience
