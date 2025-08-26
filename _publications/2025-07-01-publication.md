@@ -4,10 +4,11 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-06-01-publication
 date: 2025-07-01
-'Under-Review'
+status: "Under-Review"
 paperurl: ""
 citation: "Kaushik, S., Tellman, B., Howat Ian (2025). Beyond Clouds: Global glacial lake mapping combining sentinel-1 and sentinel-2 remote sensing data and geo-foundational model. (Under-Review)."
 ---
+
 <figure style="text-align: center;">
     <img src="../images/DOFA.png" alt="Landslide Susceptibility Assessment" style="width: 60%;">
     <figcaption style="font-size: 14px; color: gray;">
