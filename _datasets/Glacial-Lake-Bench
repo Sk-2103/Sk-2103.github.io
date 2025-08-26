@@ -1,0 +1,21 @@
+---
+layout: single
+title: "Multisource Remote Sensing Dataset"
+permalink: /datasets/multisource-remote-sensing/
+excerpt: "A multisensor EO dataset for training and evaluating deep learning models for Glacial Lake Mapping"
+header:
+  teaser: /images/datasets/multisource_teaser.png
+---
+
+<p><strong>Status:</strong> Coming soon.</p>
+
+<figure style="text-align:center;">
+  <img src="{{ '/images/datasets/multisource_teaser.png' | relative_url }}" alt="Multisource dataset placeholder" style="width:80%;">
+  <figcaption style="font-size:14px;color:gray;">
+    Placeholder figure — replace with a coverage map or sample chips when ready.
+  </figcaption>
+</figure>
+
+<p>
+  This dataset will include multi-sensor inputs (e.g., S1, S2, DEM) and matched labels for common EO tasks.
+</p>
