@@ -3,7 +3,8 @@ title: "Learning more with Less: Advancing flood Inundation mapping using geo-fo
 collection: publications
 category: manuscripts
 permalink: /publication/2025-06-01-publication
-date: 2025-06-01
+#date: 2025-06-01
+show_date: false
 venue: 'Under-Review'
 paperurl: ""
 citation: "Kaushik, S., Maurya, L., Tellman, B., Zhang, Z., & Dharpure, J.K. (2025). Learning more with Less: Advancing flood Inundation mapping using geo-foundational models. (Under-Review)."
