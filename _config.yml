@@ -225,6 +225,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  tools:               # ADDED
+    output: true       # ADDED
+    permalink: /tools/:path/   # ADDED
+  datasets:            # ADDED
+    output: true       # ADDED
+    permalink: /datasets/:path/  # ADDED
     
 # These settings control how pages and collections are included in the site
 defaults:
@@ -281,6 +287,24 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _tools (new)        # ADDED
+  - scope:              # ADDED
+      path: ""          # ADDED
+      type: tools       # ADDED
+    values:             # ADDED
+      layout: single    # ADDED
+      author_profile: true  # ADDED
+      share: true       # ADDED
+      comments: true    # ADDED
+  # _datasets (new)     # ADDED
+  - scope:              # ADDED
+      path: ""          # ADDED
+      type: datasets    # ADDED
+    values:             # ADDED
+      layout: single    # ADDED
+      author_profile: true  # ADDED
+      share: true       # ADDED
+      comments: true    # ADDED
 
 
 # Sass/SCSS
