@@ -2,7 +2,7 @@
 title: "Beyond Clouds: Global glacial lake mapping combining sentinel-1 and sentinel-2 remote sensing data and geo-foundational model"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-06-01-publication
+#permalink: /publication/2025-06-01-publication
 #date: 2025-07-01
 #status: "Under-Review"
 paperurl: ""
