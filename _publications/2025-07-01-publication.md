@@ -3,8 +3,8 @@ title: "Beyond Clouds: Global glacial lake mapping combining sentinel-1 and sent
 collection: publications
 category: manuscripts
 permalink: /publication/2025-06-01-publication
-date: 2025-07-01
-status: "Under-Review"
+#date: 2025-07-01
+#status: "Under-Review"
 paperurl: ""
 citation: "Kaushik, S., Tellman, B., Howat Ian (2025). Beyond Clouds: Global glacial lake mapping combining sentinel-1 and sentinel-2 remote sensing data and geo-foundational model. (Under-Review)."
 ---
