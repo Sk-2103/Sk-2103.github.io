@@ -225,6 +225,14 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+    
+collections:
+  tools:
+    output: true
+    permalink: /tools/:title/
+  datasets:
+    output: true
+    permalink: /datasets/:title/
 
 
 # These settings control how pages and collections are included in the site
