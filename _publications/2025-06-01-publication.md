@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-06-01-publication
 date: 2025-06-01
+venue: 'Under-Review'
 paperurl: ""
 citation: "Kaushik, S., Maurya, L., Tellman, B., Zhang, Z., & Dharpure, J.K. (2025). Learning more with Less: Advancing flood Inundation mapping using geo-foundational models. (Under-Review)."
 ---
