@@ -5,7 +5,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-06-10-publication
 show_date: false
-venue: "Under-Review"
+#venue: "Under-Review"
 paperurl: ""
 citation: "Kaushik, S., Tellman, B. (2025). DL4EO: A Unified Python Framework for Preparing Multi-Source Remote Sensing Data for any Segmentation Task. (Under-Review)."
 ---
