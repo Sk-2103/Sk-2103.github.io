@@ -8,23 +8,13 @@ author_profile: true
 {% include base_path %}
 
 <h2>Tools</h2>
-<ul>
-  {% for item in site.tools reversed %}
-    <li>
-      <a href="{{ item.url | relative_url }}">{{ item.title }}</a><br>
-      <small>{{ item.excerpt }}</small>
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.tools reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 <hr />
 
 <h2>Datasets</h2>
-<ul>
-  {% for item in site.datasets reversed %}
-    <li>
-      <a href="{{ item.url | relative_url }}">{{ item.title }}</a><br>
-      <small>{{ item.excerpt }}</small>
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.datasets reversed %}
+  {% include archive-single.html %}
+{% endfor %}
