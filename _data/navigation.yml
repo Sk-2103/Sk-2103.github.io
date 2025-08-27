@@ -23,9 +23,10 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-    - title: "CV"
+      - title: "CV"
     url: /cv/
 
-    - title: "Tools and Datasets"
-        url: /tools-datasets/
+  - title: "Tools & Datasets"
+    url: /tools-datasets/
+   
 
