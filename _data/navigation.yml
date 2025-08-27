@@ -26,7 +26,8 @@ main:
       - title: "CV"
     url: /cv/
 
-  - title: "Tools & Datasets"
-    url: /tools-datasets/
+  - title: "Tools"
+    url: /tools/
+
    
 
