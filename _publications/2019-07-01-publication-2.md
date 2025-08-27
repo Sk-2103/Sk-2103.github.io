@@ -12,9 +12,6 @@ citation: "Kaushik, S.*, Joshi, P. K., & Singh, T. (2019). Development of glacie
 
 
 
-
-
-
 <style>
   /* Page-scoped abstract size tweak */
   .paper-abstract { font-size: 0.8rem; line-height: 1.6; }
