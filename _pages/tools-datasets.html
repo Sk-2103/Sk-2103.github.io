@@ -9,15 +9,22 @@ author_profile: true
 
 <h2>Tools</h2>
 <ul>
-  <li>RSDL (Remote Sensing Data Library)</li>
-  <li>Sentinel-1 RTC Pipeline</li>
-  <li>Sentinel-2 Stacking & NDWI</li>
+  {% for item in site.tools reversed %}
+    <li>
+      <a href="{{ item.url | relative_url }}">{{ item.title }}</a><br>
+      <small>{{ item.excerpt }}</small>
+    </li>
+  {% endfor %}
 </ul>
 
-<hr/>
+<hr />
 
 <h2>Datasets</h2>
 <ul>
-  <li>Glacial Lake-Bench</li>
-  <li>Global Flood Masks</li>
+  {% for item in site.datasets reversed %}
+    <li>
+      <a href="{{ item.url | relative_url }}">{{ item.title }}</a><br>
+      <small>{{ item.excerpt }}</small>
+    </li>
+  {% endfor %}
 </ul>
