@@ -1,21 +1,25 @@
 ---
 layout: single
-title: "Multisource Remote Sensing Dataset"
-permalink: /datasets/multisource-remote-sensing/
-excerpt: "A multisensor EO dataset for training and evaluating deep learning models for Glacial Lake Mapping"
+title: "Glacial Lake-Bench"
+permalink: /datasets/glacial-lake-bench/
+excerpt: "Global multi-sensor dataset for glacial lake mapping (S1 VV/VH, S2 bands, NDWI, DEM, slope)."
 header:
-  teaser: /images/datasets/multisource_teaser.png
+  teaser: /images/datasets/glb_teaser.png
 ---
 
-<p><strong>Status:</strong> Coming soon.</p>
+<p>
+  <strong>Status:</strong> In preparation (public link coming soon).
+</p>
 
 <figure style="text-align:center;">
-  <img src="{{ '/images/datasets/multisource_teaser.png' | relative_url }}" alt="Multisource dataset placeholder" style="width:80%;">
+  <img src="{{ '/images/datasets/glb_teaser.png' | relative_url }}" alt="Glacial Lake-Bench overview" style="width:80%;">
   <figcaption style="font-size:14px;color:gray;">
-    Placeholder figure — replace with a coverage map or sample chips when ready.
+    Coverage across RGI regions with Sentinel-1/2, NDWI, DEM, and slope layers.
   </figcaption>
 </figure>
 
 <p>
-  This dataset will include multi-sensor inputs (e.g., S1, S2, DEM) and matched labels for common EO tasks.
+  Curated, multi-sensor dataset for glacial lake detection and segmentation. Includes Sentinel-1 (VV, VH),
+  Sentinel-2 (Blue, Green, Red, NIR, SWIR-11, SWIR-12), NDWI, DEM, and slope. Designed for training and
+  benchmarking geo-foundational and segmentation models.
 </p>
