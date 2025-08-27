@@ -14,3 +14,14 @@ citation: "Pandey, A., Sarkar, S.M., Palni, S., Parashar, D., Singh, G., Kaushik
         Figure: Landslide susceptibility assessment at the landscape level using multivariate analysis coupled with statistical algorithms – An insight from India’s Kailash Sacred Landscape, Western Himalaya.
     </figcaption>
 </figure>
+
+<style>
+  /* Page-scoped abstract size tweak */
+  .paper-abstract { font-size: 0.8rem; line-height: 1.6; }
+  .paper-abstract h3 { font-size: 1.0rem; margin-top: .5rem; }
+</style>
+
+<div class="paper-abstract">
+  <h3>Abstract</h3>
+  <p>Landslide susceptibility mapping plays an imperative role in mitigating hazards and determining the future direction of developmental activities in mountainous regions. Here, we used 518 landslide occurrences and nine landslide-conditioning parameters to build landslide vulnerability models in the Kailash Sacred Landscape (KSL), India. Four multivariate statistical models were applied, namely the generalized linear model (GLM), maximum entropy (MaxEnt), Mahalanobis D2 (MD), and support vector machine (SVM), to calibrate and compare four maps of landslide susceptibility. The results demonstrated the outperformance of Mahalanobis D2 for predictability compared to other models obtained from the area under the receiver operating characteristic curve (ROC). The ensemble model data shows that 10.5% of the landscape has susceptible conditions for future landslides, whereas 89.50% of the landscape falls under the safe zone. The occurrence of landslides in the KSL is linked to the middle elevations, vicinity to water bodies, and the motorable roads. Furthermore, the observed patterns and the resulting models exhibit the major variables that cause landslides and their respective significance. The current modelling approach could provide baseline data at the regional scale to improve the developmental planning in the KSL.</p>
+</div>
