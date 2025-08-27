@@ -7,10 +7,12 @@ status: "Under-Review"
 paperurl: ""
 citation: "Kaushik, S., Tellman, B., Howat, I. (2025). Beyond Clouds: Global glacial lake mapping combining Sentinel-1 and Sentinel-2 remote sensing data and a geo-foundational model. (Under-Review)."
 permalink: /publication/beyond-clouds/
-show_date: false
+date: false
 ---
 
 {% include base_path %}
+
+<p><strong>Status:</strong> Under-Review</p>
 
 <figure style="text-align:center;">
   <img src="{{ '/images/DOFA.png' | relative_url }}" alt="Fine-tuning DOFA" style="width:60%;">
