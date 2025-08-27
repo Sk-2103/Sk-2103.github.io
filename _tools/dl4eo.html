@@ -7,6 +7,8 @@ header:
   teaser: /images/tools/dl4eo_teaser.png
 ---
 
+{% include base_path %}
+
 <p>
   <strong>Link:</strong> <a href="https://pypi.org/project/dl4eo/">PyPI — dl4eo</a>
 </p>
@@ -17,12 +19,15 @@ header:
     DL4EO: generate EO training chips (Sentinel-1/2, DEM, masks) with a single config.
   </figcaption>
 </figure>
+
 <figure style="text-align:center;">
-  <img src="{{ '/images/dl4eo_4.png' | relative_url }}" alt="DL4EO overview" style="width:80%;">
+  <!-- Use exact filename case: .PNG -->
+  <img src="{{ '/images/dl4eo_4.PNG' | relative_url }}" alt="DL4EO package description" style="width:80%;">
   <figcaption style="font-size:14px;color:gray;">
     Package description page.
   </figcaption>
 </figure>
+
 <p>
   DL4EO is a streamlined process to acquire Sentinel-1, Sentinel-2, slope, elevation, and NDWI to generate image–label pairs for EO segmentation tasks. The tool performs AOI selection, downloading, preprocessing (e.g., RTC/NDWI), tiling, normalization, and split creation for training and evaluating deep learning models.
 </p>
