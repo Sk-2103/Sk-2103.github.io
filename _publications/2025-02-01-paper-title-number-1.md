@@ -21,8 +21,8 @@ citation: "Dharpure, J. K., Howat, I. M., & Kaushik, S. (2025). Declining ground
 
 <style>
   /* Page-scoped abstract size tweak */
-  .paper-abstract { font-size: 0.95rem; line-height: 1.6; }
-  .paper-abstract h3 { font-size: 1.05rem; margin-top: .5rem; }
+  .paper-abstract { font-size: 0.8rem; line-height: 1.6; }
+  .paper-abstract h3 { font-size: 1.0rem; margin-top: .5rem; }
 </style>
 
 <div class="paper-abstract">
