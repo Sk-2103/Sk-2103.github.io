@@ -31,6 +31,29 @@ header:
   </figcaption>
 </figure>
 
+**Table 1. Summary of the compiled Glacial Lake-Bench dataset.**
+
+| RGI Region              | No. Images | Total Lake Area (km²) | Area Covered by Dataset (km²) | % Area Covered |
+|-------------------------|-----------:|----------------------:|-------------------------------:|---------------:|
+| Alaska                  |      3,323 |               3,549.55 |                        3,174.64 |        89.42% |
+| Iceland                 |         65 |                 306.50 |                           35.78 |        11.67% |
+| New-Zealand             |        133 |                 393.67 |                           87.43 |        22.21% |
+| North Asia              |        261 |                 467.02 |                          299.75 |        64.15% |
+| Scandinavia             |        595 |               1,840.02 |                          351.08 |        19.08% |
+| Svalbard                |        487 |                 278.30 |                          219.05 |        78.71% |
+| Arctic Canada           |      1,558 |                 767.37 |                          583.21 |        75.99% |
+| Arctic Canada South     |      1,074 |               2,567.49 |                        1,112.91 |        43.36% |
+| Central Asia            |      1,982 |                 921.79 |                          600.95 |        65.20% |
+| Central Europe          |        521 |                 156.84 |                           63.92 |        40.77% |
+| Greenland               |      2,287 |               5,725.42 |                        3,775.64 |        65.94% |
+| Low Latitude            |        412 |                 524.83 |                          116.06 |        22.11% |
+| Middle East (Caucasus)  |         97 |                   6.31 |                            3.81 |        60.37% |
+| Russian Arctic          |        344 |                 420.33 |                          152.12 |        36.19% |
+| South Andes             |      2,077 |               3,329.34 |                          802.32 |        24.09% |
+| South Asia East         |        638 |                 649.21 |                           59.80 |         9.21% |
+| South Asia West         |      1,684 |                 283.99 |                          223.88 |        78.81% |
+| Western Canada          |      1,612 |               2,107.74 |                          296.66 |        14.07% |
+
 <p>
   Curated, multi-sensor dataset for glacial lake detection and segmentation. Includes Sentinel-1 (VV, VH),
   Sentinel-2 (Blue, Green, Red, NIR, SWIR-11, SWIR-12), NDWI, DEM, and slope. Designed for training and
