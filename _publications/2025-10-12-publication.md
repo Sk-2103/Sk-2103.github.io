@@ -29,13 +29,6 @@ show_date: false
 </figure>
 
 <figure style="text-align:center;">
-  <img src="{{ '/images/GLB_random.png' | relative_url }}" alt="Global split map of training, testing, and validation sites" style="width:60%;">
-  <figcaption style="font-size:14px;color:gray;">
-    Figure: Spatial distribution of training, testing, and validation sites globally.
-  </figcaption>
-</figure>
-
-<figure style="text-align:center;">
   <img src="{{ '/images/glacier3.png' | relative_url }}" alt="Prithvi model supraglacial debris mapping examples" style="width:60%;">
   <figcaption style="font-size:14px;color:gray;">
     Figure: Example of precise supraglacial debris mapping using the Prithvi geo-foundational model across test sites.
