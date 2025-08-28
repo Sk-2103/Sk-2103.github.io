@@ -12,9 +12,22 @@ header:
 </p>
 
 <figure style="text-align:center;">
-  <img src="{{ '/images/datasets/glb_teaser.png' | relative_url }}" alt="Glacial Lake-Bench overview" style="width:80%;">
+  <img src="{{ '/images/lake1.png' | relative_url }}" alt="Glacial Lake-Bench overview" style="width:80%;">
   <figcaption style="font-size:14px;color:gray;">
-    Coverage across RGI regions with Sentinel-1/2, NDWI, DEM, and slope layers.
+    Visualization of 11 channels and corresponding label (lake boundary).
+  </figcaption>
+</figure>
+
+<figure style="text-align:center;">
+  <img src="{{ '/images/lake2.gif' | relative_url }}" alt="Glacial Lake-Bench overview" style="width:80%;">
+  <figcaption style="font-size:14px;color:gray;">
+    Multiple examples of image-lable pairs of Glacial-Lake-Bench Dataset collected globally.
+  </figcaption>
+</figure>
+<figure style="text-align:center;">
+  <img src="{{ '/images/lake3.png' | relative_url }}" alt="Glacial Lake-Bench overview" style="width:80%;">
+  <figcaption style="font-size:14px;color:gray;">
+    Multiple examples of image-lable pairs of Glacial-Lake-Bench Dataset collected globally.
   </figcaption>
 </figure>
 
