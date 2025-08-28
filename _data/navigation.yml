@@ -11,11 +11,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/
+  - title: "Datasets"
+    url: /datasets/
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Tools"
+    url: /tools/
 
   - title: "Blogs"
     url: /year-archive/
@@ -23,11 +23,11 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Tools"
-    url: /tools/
+   - title: "Talks"
+    url: /talks/
 
-  - title: "Datasets"
-    url: /datasets/
+  - title: "Teaching"
+    url: /teaching/
     
   - title: "Portfolio"
     url: /portfolio/
