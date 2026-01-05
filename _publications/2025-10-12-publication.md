@@ -17,7 +17,7 @@ show_date: false
 <p><strong>Status:</strong> Under-Review</p>
 
 <figure style="text-align:center;">
-  <img src="{{ '/images/glacier1.png' | relative_url }}" alt="Correlation and IoU of supraglacial debris area" style="width:60%;">
+  <img src="{{ '/images/glacier1.png' | relative_url }}" alt="Fine-tuning Prithvi GFM for supraglacial debris mapping" style="width:60%;">
   <figcaption style="font-size:14px;color:gray;">
     Figure: Correlation and IoU of supraglacial debris area between the Prithvi model and manually corrected ground-truth data.
   </figcaption>
