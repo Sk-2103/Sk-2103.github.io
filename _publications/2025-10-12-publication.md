@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "Advancing supraglacial debris mapping at a global scale using newly annotated remote sensing data and a geo-foundational model"
+title: "Debris covered glacier mapping using newly annotated multisource remote sensing data and geo-foundational model"
 collection: publications
 category: manuscripts
-status: "Under-Review"
+status: "Science of Remote Sensing "
 paperurl: ""
 citation: "Kaushik, S.*, Maurya, L., Tellman, E., Zhang, G., & Dharpure, J. K. (2025). Advancing supraglacial debris mapping at a global scale using newly annotated remote sensing data and a geo-foundational model. (Under-Review)."
-permalink: /publication/supraglacial-debris/
+permalink: https://doi.org/10.1016/j.srs.2025.100319
 show_date: false
 ---
 
