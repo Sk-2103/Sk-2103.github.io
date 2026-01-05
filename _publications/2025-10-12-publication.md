@@ -30,9 +30,3 @@ show_date: false
   </figcaption>
 </figure>
 
-<figure style="text-align:center;">
-  <img src="{{ '/images/glacier3.png' | relative_url }}" alt="Prithvi model supraglacial debris mapping examples" style="width:60%;">
-  <figcaption style="font-size:14px;color:gray;">
-    Figure: Example of precise supraglacial debris mapping using the Prithvi geo-foundational model across test sites.
-  </figcaption>
-</figure>
