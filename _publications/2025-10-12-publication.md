@@ -14,7 +14,7 @@ show_date: false
 
 {% include base_path %}
 
-<p><strong>Status:</strong> Under-Review</p>
+
 
 <figure style="text-align:center;">
   <img src="{{ '/images/glacier1.png' | relative_url }}" alt="Fine-tuning Prithvi GFM for supraglacial debris mapping" style="width:60%;">
