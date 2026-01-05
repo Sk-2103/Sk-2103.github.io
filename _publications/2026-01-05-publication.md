@@ -11,15 +11,11 @@ citation: "Kaushik Saurabh, Maurya Lalit, Tellman Beth (2026). Prithvi-Complimen
 <figure style="text-align: center;">
     <img src="../images/CAFE.png" alt="Landslide Susceptibility Assessment" style="width: 60%;">
     <figcaption style="font-size: 14px; color: gray;">
-        Figure: COverview of  Prithvi-CAFE architecture.
+        Figure: Overview of  Prithvi-CAFE architecture.
     </figcaption>
 </figure>
 
-<style>
-  /* Page-scoped abstract size tweak */
-  .paper-abstract { font-size: 0.8rem; line-height: 1.6; }
-  .paper-abstract h3 { font-size: 1.0rem; margin-top: .5rem; }
-</style>
+
 
 <div class="paper-abstract">
   <h3>Abstract</h3>
