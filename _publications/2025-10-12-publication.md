@@ -15,14 +15,14 @@ show_date: false
 {% include base_path %}
 
 <figure style="text-align:center;">
-  <img src="{{ '/images/glacier1.png' | relative_url }}" alt="Fine-tuning Prithvi GFM for supraglacial debris mapping" style="width:60%;">
+  <img src="{{ '/images/glacier1.jpg' | relative_url }}" alt="Fine-tuning Prithvi GFM for supraglacial debris mapping" style="width:60%;">
   <figcaption style="font-size:14px;color:gray;">
     Figure: Correlation and IoU of supraglacial debris area between the Prithvi model and manually corrected ground-truth data.
   </figcaption>
 </figure>
 
 <figure style="text-align:center;">
-  <img src="{{ '/images/glacier2.png' | relative_url }}" alt="Model comparison for supraglacial debris mapping" style="width:60%;">
+  <img src="{{ '/images/glacier2.jpg' | relative_url }}" alt="Model comparison for supraglacial debris mapping" style="width:60%;">
   <figcaption style="font-size:14px;color:gray;">
     Figure: Comparison of different deep-learning models for supraglacial debris mapping.
   </figcaption>
