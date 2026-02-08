@@ -23,9 +23,13 @@ Academic Achievements
 
 News
 ======
-1. Feburary 2025: read our new article published in _Water Resources Research_ about Declining Groundwater Storage in the Indus Basin, now available [here](https://doi.org/10.1029/2024WR038279)  
-1. Feburary 2025: read our new article published in _Science of Remote Sensing_  [here](https://doi.org/10.1016/j.srs.2025.100198) about imporved and consistent GRACE-GRACE FO data using machine learning.
-1. September 2024: read our new article published in _Remote Sensing of Environment_  [here](https://doi.org/10.1016/j.rse.2024.114413) about most update glacial lake inventory in HMA using deep learning. 
-1. July 2024: read our new article published in _Remote Sensing Applications: Society and Environment_ [here](https://doi.org/10.1016/j.rsase.2024.101286) about increasing risk of Glacial lake Outburst Flood in Sikkim.
-1. May 2024: Joined Social-Pixel lab at University of Arizona as an Postdoctral Research Associate.
+1. February 2026: our latest study is now available on _IEEE Xplore_ (official publication version), available [here](https://ieeexplore.ieee.org/document/11362928).
+1. January 2026: our workshop paper in _WACV (CV4EO-Workshop)_ introduces **Prithvi-CAFE** for improved flood inundation mapping, available [here](https://arxiv.org/abs/2601.02315).
+1. January 2026: our workshop paper in _WACV (GeoCV-Workshop)_ presents **GLACIA**, a multimodal large language model framework for glacial lake segmentation with positional reasoning, available [here](https://doi.org/10.48550/arXiv.2512.09251).
+1. November 2025: our preprint on benchmarking geo-foundation models for flood inundation mapping across Sentinel-1, Sentinel-2, and PlanetScope is available [here](https://doi.org/10.48550/arXiv.2511.01990).
+1. February 2025: read our new article published in _Water Resources Research_ about declining groundwater storage in the Indus Basin, available [here](https://doi.org/10.1029/2024WR038279).  
+1. February 2025: read our new article published in _Science of Remote Sensing_ about improved and consistent GRACE/GRACE-FO data using machine learning, available [here](https://doi.org/10.1016/j.srs.2025.100198).
+1. September 2024: read our new article published in _Remote Sensing of Environment_ about the most updated glacial lake inventory in HMA using deep learning, available [here](https://doi.org/10.1016/j.rse.2024.114413).
+1. July 2024: read our new article published in _Remote Sensing Applications: Society and Environment_ about increasing glacial lake outburst flood risk in Sikkim, available [here](https://doi.org/10.1016/j.rsase.2024.101286).
+1. May 2024: joined Social-Pixel Lab at the University of Arizona as a Postdoctoral Research Associate.
    
