@@ -1,31 +1,49 @@
 ---
 layout: single
 title: "Cryo-Bench"
-permalink: https://huggingface.co/datasets/Sk-21/Cryo-Bench/
-excerpt: "A Benchmark for Evaluating Geospatial Foundation Models on Cryosphere Applications"
-header:
+permalink: /cryo-bench/
+excerpt: "A benchmark for evaluating Geospatial Foundation Models on cryosphere applications."
 ---
 
-<p>
-  <strong>Link:</strong> <a href="https://huggingface.co/datasets/Sk-21/Cryo-Bench">Hugging Face — Cryo-Bench</a>
+<p style="font-size: 16px;">
+  <strong>Dataset:</strong>
+  <a href="https://huggingface.co/datasets/Sk-21/Cryo-Bench" target="_blank" rel="noopener">
+    🤗 Hugging Face — Cryo-Bench
+  </a>
 </p>
 
 <figure style="text-align:center;">
-  <img src="{{ '/images/Fig1.png' | relative_url }}" alt="Debris cover glacier samples" style="width:80%;">
+  <img src="{{ '/images/Fig1.png' | relative_url }}" 
+       alt="Cryo-Bench benchmark overview" 
+       style="width:80%;">
   <figcaption style="font-size:14px;color:gray;">
-    Overview 
+    Overview of the Cryo-Bench benchmark for evaluating Geo-Foundation Models on cryosphere tasks.
   </figcaption>
 </figure>
 
 <figure style="text-align:center;">
-  <img src="{{ '/images/Fig.S2.png' | relative_url }}" alt="Debris cover glacier samples" style="width:80%;">
+  <img src="{{ '/images/Fig.S2.png' | relative_url }}" 
+       alt="Cryo-Bench dataset samples" 
+       style="width:80%;">
   <figcaption style="font-size:14px;color:gray;">
-    Visualization of image-mask pair included in Cryo-Bench. 
+    Visualization of image–mask pairs included in Cryo-Bench.
   </figcaption>
 </figure>
 
-
 <p>
-  Curated multispectral chips, labels, and splits for training and benchmarking deep learning models
-  on debris-covered glacier detection.
+Cryo-Bench is a benchmark dataset designed for evaluating **Geo-Foundation Models (GFMs)** on cryosphere applications.  
+It contains curated multispectral satellite image chips, corresponding segmentation labels, and standardized
+train/validation/test splits.
+
+The benchmark covers multiple cryosphere tasks including:
+
+<ul>
+<li>Debris-covered glacier mapping</li>
+<li>Glacial lake segmentation</li>
+<li>Sea ice classification</li>
+<li>Calving front detection</li>
+</ul>
+
+Cryo-Bench enables consistent comparison of foundation models, CNNs, and Vision Transformer architectures
+for cryosphere-related Earth observation applications.
 </p>
