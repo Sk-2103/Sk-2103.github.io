@@ -6,6 +6,7 @@ permalink: /publication/2026-01-05-publication
 date: 2026-01-05
 venue: "WACV (CV4EO-Workshop)"
 paperurl: "https://arxiv.org/abs/2601.02315"
+codeurl: "https://github.com/Sk-2103/Prithvi-CAFE"
 citation: "Kaushik Saurabh, Maurya Lalit, Tellman Beth (2026). Prithvi-Complimentary Adaptive Fusion Encoder (CAFE): unlocking full-potential for flood inundation mapping (CV4EO-Workshop)"
 ---
 <figure style="text-align: center;">
