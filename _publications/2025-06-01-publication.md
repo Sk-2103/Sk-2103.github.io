@@ -5,8 +5,8 @@ category: manuscripts
 permalink: /publication/2025-06-01-publication
 date: 2025-12-01
 show_date: false
-venue: 'Under-Review'
-paperurl: "https://doi.org/10.48550/arXiv.2511.01990"
+venue: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing'
+paperurl: "https://ieeexplore.ieee.org/abstract/document/11362928"
 citation: "Kaushik, S., Maurya, L., Tellman, B., Zhang, Z., & Dharpure, J.K. (2025). Assessing the value of Geo-Foundational Models for Flood Inundation Mapping: Benchmarking models for Sentinel-1, Sentinel-2, and Planetscope for end-users. (Under-Review)"
 ---
 
