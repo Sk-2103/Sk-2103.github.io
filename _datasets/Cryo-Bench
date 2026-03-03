@@ -1,0 +1,31 @@
+---
+layout: single
+title: "Cryo-Bench"
+permalink: https://huggingface.co/datasets/Sk-21/Cryo-Bench/
+excerpt: "A Benchmark for Evaluating Geospatial Foundation Models on Cryosphere Applications"
+header:
+---
+
+<p>
+  <strong>Link:</strong> <a href="https://huggingface.co/datasets/Sk-21/Cryo-Bench">Hugging Face — Cryo-Bench</a>
+</p>
+
+<figure style="text-align:center;">
+  <img src="{{ '/images/Fig1.png' | relative_url }}" alt="Debris cover glacier samples" style="width:80%;">
+  <figcaption style="font-size:14px;color:gray;">
+    Overview 
+  </figcaption>
+</figure>
+
+<figure style="text-align:center;">
+  <img src="{{ '/images/Fig.2.png' | relative_url }}" alt="Debris cover glacier samples" style="width:80%;">
+  <figcaption style="font-size:14px;color:gray;">
+    Visualization of image-mask pair included in Cryo-Bench. 
+  </figcaption>
+</figure>
+
+
+<p>
+  Curated multispectral chips, labels, and splits for training and benchmarking deep learning models
+  on debris-covered glacier detection.
+</p>
