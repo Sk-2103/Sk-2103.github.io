@@ -3,16 +3,16 @@ layout: single
 title: "Beyond Clouds: Global glacial lake mapping combining sentinel-1 and sentinel-2 remote sensing data and geo-foundational model"
 collection: publications
 category: manuscripts
-status: "Under-Review"
-paperurl: ""
-citation: "Kaushik, S., Tellman, B., Howat, I. (2025). Beyond Clouds: Global glacial lake mapping combining Sentinel-1 and Sentinel-2 remote sensing data and a geo-foundational model. (Under-Review)."
+status: "Published"
+paperurl: "https://doi.org/10.5194/essd-2026-474"
+citation: "Kaushik, S., Tellman, B., Howat, I., Haritashya, U. (2026). Beyond Clouds: Global glacial lake mapping combining Sentinel-1 and Sentinel-2 remote sensing data and a geo-foundational model. Earth System Science Data (ESSD). https://doi.org/10.5194/essd-2026-474"
 permalink: /publication/beyond-clouds/
 show_date: false
 ---
 
 {% include base_path %}
 
-<p><strong>Status:</strong> Under-Review</p>
+<p><strong>Status:</strong> Published in <a href="https://doi.org/10.5194/essd-2026-474" target="_blank" rel="noopener">Earth System Science Data (ESSD)</a></p>
 
 <figure style="text-align:center;">
   <img src="{{ '/images/DOFA.png' | relative_url }}" alt="Fine-tuning DOFA" style="width:60%;">

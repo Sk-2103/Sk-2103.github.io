@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Saurabh Kaushik-Geospatial Data Scientist"
 title_separator          : "-"
 name                     : &name "Saurabh Kaushik"
-description              : &description "personal description"
+description              : &description "Postdoctoral researcher in geospatial data science — Earth observation, foundation models, and deep learning for glaciers, floods, and water resources."
 url                      : https://Sk-2103.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Sk-2103.github.io"
@@ -26,7 +26,7 @@ author:
   name             : "Saurabh Kaushik"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher, Geospatial Data Science, Machine Learning, Computer Vision, Geo-foundational Models, Transfomers, Data Fusion"
-  location         : "Tucson, AZ"
+  location         : "Madison, WI"
   employer         : "The University of Wisconsin-Madison"
   uri              : # URL
   email            : "skaushik8@wisc.edu, saurabh21.kaushik@gmail.com" 
@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-2791-3729"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # "https://www.researchgate.net/profile/Saurabh-Kaushik-2?ev=hdr_xprf"
   scopus           : # URL
 
