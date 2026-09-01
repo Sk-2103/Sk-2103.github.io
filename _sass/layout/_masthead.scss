@@ -19,8 +19,8 @@
     content: "";
     position: absolute;
     bottom: 0;
-    height: 1px;
-    background: var(--global-border-color);
+    height: 2px;
+    background: var(--global-link-color);
     width: 100%;
   }
 
@@ -66,5 +66,9 @@
     font-size: $type-size-4;
     font-weight: 700;
     letter-spacing: -0.01em;
+
+    a {
+      color: var(--global-link-color) !important;
+    }
   }
 }

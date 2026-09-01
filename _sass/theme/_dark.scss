@@ -8,13 +8,13 @@ $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 
-$background                 : #12161B;
-$background-light           : #1B2129;
-$background-lighter         : #232B34;
+$background                 : #0D1117;
+$background-light           : #1A212B;
+$background-lighter         : #232B36;
 $text                       : #EDEFF2;
-$link                       : #4FB8E0;
-$link-dark                  : #3A9CC0;
-$link-light                 : #7ACBE8;
+$link                       : #38BDF8;
+$link-dark                  : #0EA5E9;
+$link-light                 : #7DD3FC;
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
@@ -41,13 +41,14 @@ $sidebar-screen-min-width   : 1024px;
 html[data-theme="dark"] {
     --global-base-color                 : #9BA4AF;
     --global-bg-color                   : #{$background};
-    --global-border-color               : #2A313B;
+    --global-border-color               : #323B47;
     --global-code-background-color      : #{$background-light};
     --global-code-text-color            : #C7CDD4;
     --global-fig-caption-color          : #8891A0;
     --global-link-color                 : #{$link};
     --global-link-color-hover           : #{$link-light};
     --global-link-color-visited         : #{$link-dark};
+    --global-accent-tint                : rgba(56, 189, 248, 0.14);
     --global-masthead-link-color        : #{$text};
     --global-masthead-link-color-hover  : #{$link};
     --global-text-color                 : #{$text};
