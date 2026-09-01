@@ -23,6 +23,7 @@ Academic Achievements
 
 News
 ======
+1. July 2026: our paper "Beyond Clouds: Global glacial lake mapping combining Sentinel-1 and Sentinel-2 remote sensing data and a geo-foundational model" is now published in _Earth System Science Data (ESSD)_, available [here](https://doi.org/10.5194/essd-2026-474).
 1. February 2026: our latest study is now available on _IEEE Xplore_ (official publication version), available [here](https://ieeexplore.ieee.org/document/11362928).
 1. January 2026: our workshop paper in _WACV (CV4EO-Workshop)_ introduces **Prithvi-CAFE** for improved flood inundation mapping, available [here](https://arxiv.org/abs/2601.02315).
 1. January 2026: our workshop paper in _WACV (GeoCV-Workshop)_ presents **GLACIA**, a multimodal large language model framework for glacial lake segmentation with positional reasoning, available [here](https://doi.org/10.48550/arXiv.2512.09251).
