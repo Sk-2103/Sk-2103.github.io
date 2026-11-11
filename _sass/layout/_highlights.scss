@@ -1,0 +1,75 @@
+/* ==========================================================================
+   HIGHLIGHTS STRIP (homepage grant/paper callouts)
+   ========================================================================== */
+
+.highlights-strip {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1em;
+  margin: 0 0 2em;
+
+  @include breakpoint($medium) {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.highlight-card {
+  display: block;
+  position: relative;
+  padding: 1em 1.25em 1em 1.5em;
+  color: var(--global-text-color) !important;
+  text-decoration: none !important;
+  background: var(--global-code-background-color);
+  border: 1px solid var(--global-border-color);
+  border-radius: $border-radius;
+  box-shadow: $box-shadow;
+  transition: $global-transition;
+
+  &:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 4px;
+    background: var(--global-link-color);
+    border-top-left-radius: $border-radius;
+    border-bottom-left-radius: $border-radius;
+  }
+
+  &:hover {
+    border-color: var(--global-link-color);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(15, 23, 30, 0.14), 0 2px 6px rgba(15, 23, 30, 0.1);
+  }
+}
+
+.highlight-tag {
+  display: inline-block;
+  margin-bottom: 0.5em;
+  padding: 0.15em 0.6em;
+  font-family: $accent-monospace;
+  font-size: $type-size-7;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: var(--global-link-color);
+  background: var(--global-accent-tint);
+  border-radius: 999px;
+}
+
+.highlight-title {
+  display: block;
+  margin-bottom: 0.25em;
+  font-family: $header-serif;
+  font-size: $type-size-5;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.highlight-meta {
+  display: block;
+  font-family: $accent-monospace;
+  font-size: $type-size-7;
+  color: var(--global-text-color-light);
+}

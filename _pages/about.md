@@ -7,6 +7,19 @@ redirect_from:
   - /about.html
 ---
 
+<div class="highlights-strip">
+  <div class="highlight-card">
+    <span class="highlight-tag">New Grant</span>
+    <span class="highlight-title">NASA Early Career Investigator Program (ECIP)</span>
+    <span class="highlight-meta">Physics-Aware Multimodal Foundation Model for Earth's Evolving Cryosphere · $300,000 · 3 years</span>
+  </div>
+  <a class="highlight-card" href="https://doi.org/10.1016/j.isprsjprs.2026.10.041" target="_blank" rel="noopener">
+    <span class="highlight-tag">New Paper</span>
+    <span class="highlight-title">FloodDuo: A Dual Foundation-Encoder Architecture for Generalizable High-Resolution Flood Mapping</span>
+    <span class="highlight-meta">ISPRS Journal of Photogrammetry and Remote Sensing · Nov 2026</span>
+  </a>
+</div>
+
 I am currently a Postdoctoral Research Associate at the University of Wisconsin-Madison, working with the [Tellman Lab](https://tellman-lab.com/) (PI: Beth Tellman) on a NASA-funded urban flood mapping project. My research sits at the intersection of GeoAI, Earth observation, and geospatial foundation models, leveraging data fusion-capable transformer architectures to enhance flood inundation mapping in complex environments — with additional applications in glacier and glacial-lake monitoring, sea-ice classification, and calving-front delineation. I also contribute to teaching at UW–Madison, including course material for "AI for Sustainability" and "AI for Earth Observation." Previously, as a Postdoctoral Researcher at The Ohio State University, I developed robust Earth observation methods for large-scale mapping of potential natural (gold) hydrogen sites globally. Using multisource remote sensing data and deep learning, we successfully generated the first-ever global dataset of potential hydrogen sites, which holds significant promise for renewable energy applications and climate change mitigation.
 
 I earned a bi-nationally supervised Doctoral Degree from the Academy of Scientific and Innovative Research and the German Aerospace Center (DLR), Germany. My Ph.D. research focused on developing deep-learning frameworks for mapping glaciers and glacial lakes in the Himalayas, modeling glacial lake outburst floods, and estimating long-term glacier velocities. My broader research interests lie at the intersection of computer vision, remote sensing, and Earth observation, with a particular focus on assessing current and future risks in water resources. My goal is to develop robust Earth observation solutions that map complex Earth features and processes, generating reliable long-term datasets to enhance our understanding of spatio-temporal changes. I hold multiple certifications in Python, Machine Learning, and Linux for scientific computing. I am proficient in remote sensing, machine learning, foundational models, Transformers, Microsoft Office, and data management. Passionate about environmental and social sustainability, I aim to apply my skills and expertise to tackle global challenges. Datasets and model checkpoints from my work are shared on [Hugging Face](https://huggingface.co/Sk-21).
