@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<p><a class="btn btn--inverse" href="{{ '/files/Saurabh_Kaushik_CV.pdf' | relative_url }}" target="_blank" rel="noopener">Download PDF</a></p>
+
 Education
 ======
 **Academy of Scientific and Innovative Reseach (AcSIR)****-Central Scientific Instruments Organisation (CSIO)**, India (2023).
