@@ -21,9 +21,27 @@ _M.Sc. Remote Sensing & GIS, _
 _Coursework: Remote Sensing, GIS, Sptial Mathematics, GPS, Digital Image Proessing, Cartography._
 
 
+Grants and Awards
+======
+* 2026 NASA Early Career Investigator Program in Earth Science (ECIP) grant for "Physics-Aware Multimodal Foundation Model for Earth's Evolving Cryosphere" ($300,000 over three years).
+* 2025 Young Scientist travel Award to attend Debris Cover Glacier Workshop, ISTA Austria (1000$)
+* 2024 Professional development/travel award: Office of Postdoctoral affair, OSU USA. (700$).
+* 2019 IASC Early Career Scientist travel award for attending ISMASS workshop, Reykjavik. (1500 $).
+* 2019 DAAD-Bi-nationally supervised doctoral degree fellowship (~24000 Euro).
+* 2019 Best poster award "Third" at 5th International YES Congress, Berlin (Certificate and Book).
+* 2019 DST-International Travel Support to attend 5th International YES Congress, Berlin (~1500 $).
+* 2018 Innovation in Science Pursuit for Inspired Research (INSPIRE), DST-India (~13,000 $)
+
 Work experience
 ======
-* School of Geography, Development & Environment-University of Arizona:       June 2024-Present
+* Department of Geography-University of Wisconsin-Madison:                    January 2026-Present
+  (_Postdoctoral Research Associate_) Tellman Lab, NASA-Funded Urban Flood Mapping Project
+  * Lead development of FloodDuo, a dual foundation-encoder architecture for generalizable high-resolution flood mapping (ISPRS Journal of Photogrammetry and Remote Sensing).
+  * Perform flood inundation mapping using CNN models, Vision Transformers, and geo-foundational models.
+  * Perform data fusion of Sentinel-1 and Sentinel-2 using feature-based fusion (Transformer and CNN models).
+  * Write Python pipelines to process large-scale satellite data (PlanetScope, Sentinel-2, and Sentinel-1).
+
+* School of Geography, Development & Environment-University of Arizona:       June 2024-January 2026
   (_Postdoctoral Research Associate_) NASA Sponsored Flood Inundation Mapping Project
   * Performed Flood Inundation Mapping using CNN Models, Vision Transformers, Geo-Foundational Models.
   * Performed Data Fusion of Sentinel 1 and Sentinel 2 using feature based fusion (Transformer and CNN model)
