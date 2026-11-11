@@ -26,7 +26,7 @@ News
 ======
 1. November 2026: awarded a NASA Early Career Investigator Program in Earth Science (ECIP) grant for "Physics-Aware Multimodal Foundation Model for Earth's Evolving Cryosphere" ($300,000 over three years).
 1. November 2026: our paper "FloodDuo: A Dual Foundation-Encoder Architecture for Generalizable High-Resolution Flood Mapping" is now published in _ISPRS Journal of Photogrammetry and Remote Sensing_, available [here](https://doi.org/10.1016/j.isprsjprs.2026.10.041). Code and the pretrained model are on [GitHub](https://github.com/Sk-2103/FloodDuo) and [Hugging Face](https://huggingface.co/Sk-21/FloodDuo).
-1. July 2026: our paper "Beyond Clouds: Global glacial lake mapping combining Sentinel-1 and Sentinel-2 remote sensing data and a geo-foundational model" is now published in _Earth System Science Data (ESSD)_, available [here](https://doi.org/10.5194/essd-2026-474).
+1. July 2026: our paper "Glacial-Lake-Bench: A Global Multi-Sensor Benchmark Dataset for Evaluating Deep Learning Models for Glacial Lake Mapping" is now published in _Earth System Science Data (ESSD)_, available [here](https://doi.org/10.5194/essd-2026-474).
 1. February 2026: our latest study is now available on _IEEE Xplore_ (official publication version), available [here](https://ieeexplore.ieee.org/document/11362928).
 1. January 2026: our workshop paper in _WACV (CV4EO-Workshop)_ introduces **Prithvi-CAFE** for improved flood inundation mapping, available [here](https://arxiv.org/abs/2601.02315).
 1. January 2026: our workshop paper in _WACV (GeoCV-Workshop)_ presents **GLACIA**, a multimodal large language model framework for glacial lake segmentation with positional reasoning, available [here](https://doi.org/10.48550/arXiv.2512.09251).

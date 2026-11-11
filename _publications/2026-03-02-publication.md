@@ -7,7 +7,7 @@ date: 2026-03-02
 venue: "Pre-Print"
 paperurl: "https://arxiv.org/abs/2603.01576"
 codeurl: "https://github.com/Sk-2103/Cryo-Bench"
-citation: "Kaushik Saurabh, Maurya Lalit, Tellman Beth (2026). Cryo-Bench: Benchmarking Foundation Models for Cryosphere Applications"
+citation: "Kaushik, S., Maurya, L., Tellman, B., Roy, S. K., Marsocci, V., Camps-Valls, G., Chanussot, J. (2026). Cryo-Bench: Benchmarking Foundation Models for Cryosphere Applications. arXiv preprint arXiv:2603.01576."
 ---
 <figure style="text-align: center;">
     <img src="../images/Fig.1.png" alt="Landslide Susceptibility Assessment" style="width: 60%;">
