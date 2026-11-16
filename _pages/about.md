@@ -20,9 +20,11 @@ redirect_from:
   </a>
 </div>
 
-I'm a postdoctoral researcher at the University of Wisconsin-Madison, where I work with the [Tellman Lab](https://tellman-lab.com/) on a NASA-funded project that uses satellite images and AI to map floods as they happen. More broadly, I use machine learning and satellite data to study how glaciers, glacial lakes, and floods are changing around the world. I also help teach AI-for-Earth and sustainability courses at UW-Madison.
+I build AI models that turn satellite imagery into knowledge about Earth's water. My work sits at the intersection of computer vision, remote sensing, and machine learning. I love designing models, large-scale data pipelines, and open tools that can read vast archives of optical and radar imagery and map what is changing on the ground, quickly and reliably. Much of my current focus is on geospatial foundation models: what they actually learn, where they fail, and how to make them efficient enough for real-world use.
 
-Before this, I was a postdoctoral researcher at Ohio State University, where I helped build the first global map of possible natural hydrogen sites — a candidate clean energy source. I earned my Ph.D. in Earth and Environmental Sciences from AcSIR and the German Aerospace Center (DLR) in Germany, studying Himalayan glaciers and the floods they can cause. My code, data, and trained models are shared publicly on [GitHub](https://github.com/Sk-2103) and [Hugging Face](https://huggingface.co/Sk-21).
+The engineering serves a set of science questions I keep coming back to. How fast are glaciers retreating, and where are glacial lakes growing into hazards? Where and how often do floods happen, and who is exposed? What do these changes mean for water resources and sea level rise in a warming climate? The cryosphere and floods are two parts of the same water story, and both unfold in places that are remote, cloudy, or changing too fast to monitor by hand. That is exactly where AI can help most.
+
+I am a postdoctoral researcher at the University of Wisconsin-Madison in the [Tellman Lab](https://tellman-lab.com/), where I also help teach AI-for-Earth and sustainability courses. Before this, I was a postdoc at Ohio State University, where I helped build the first global map of potential natural hydrogen sites, and I earned my Ph.D. through AcSIR and the German Aerospace Center (DLR), studying glaciers, glacial lakes, and the floods they can cause. I believe in open science, so my code, data, and trained models are public on [GitHub](https://github.com/Sk-2103) and [Hugging Face](https://huggingface.co/Sk-21).
 
 <p class="section-divider"><img src="{{ '/images/divider-glacier.jpg' | relative_url }}" alt="" role="presentation"></p>
 
