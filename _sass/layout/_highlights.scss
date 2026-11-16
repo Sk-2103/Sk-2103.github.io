@@ -73,20 +73,3 @@
   font-size: $type-size-7;
   color: var(--global-text-color-light);
 }
-
-/* ==========================================================================
-   SECTION DIVIDER (thematic banner image between content sections)
-   ========================================================================== */
-
-.section-divider {
-  margin: 2em 0;
-
-  img {
-    display: block;
-    width: 100%;
-    height: auto;
-    max-height: 170px;
-    object-fit: cover;
-    border-radius: $border-radius;
-  }
-}

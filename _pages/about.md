@@ -26,8 +26,6 @@ The engineering serves a set of science questions I keep coming back to. How fas
 
 I am a postdoctoral researcher at the University of Wisconsin-Madison in the [Tellman Lab](https://tellman-lab.com/), where I also help teach AI-for-Earth and sustainability courses. Before this, I was a postdoc at Ohio State University, where I helped build the first global map of potential natural hydrogen sites, and I earned my Ph.D. through AcSIR and the German Aerospace Center (DLR), studying glaciers, glacial lakes, and the floods they can cause. I believe in open science, so my code, data, and trained models are public on [GitHub](https://github.com/Sk-2103) and [Hugging Face](https://huggingface.co/Sk-21).
 
-<p class="section-divider"><img src="{{ '/images/divider-glacier.jpg' | relative_url }}" alt="" role="presentation"></p>
-
 Academic Achievements
 ======
 1. 2026 NASA Early Career Investigator Program in Earth Science (ECIP) grant for "Physics-Aware Multimodal Foundation Model for Earth's Evolving Cryosphere" ($300,000 over three years).
