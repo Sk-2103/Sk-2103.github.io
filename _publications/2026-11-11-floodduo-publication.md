@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/floodduo
 date: 2026-11-11
+header:
+  teaser: /images/floodduo_architecture.png
 venue: "ISPRS Journal of Photogrammetry and Remote Sensing"
 paperurl: "https://doi.org/10.1016/j.isprsjprs.2026.10.041"
 codeurl: "https://github.com/Sk-2103/FloodDuo"

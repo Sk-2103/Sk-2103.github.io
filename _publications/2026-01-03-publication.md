@@ -5,6 +5,8 @@ category: manuscripts
 permalink: /publication/2026-01-03-publication
 date: 2026-01-03
 venue: "WACV (GeoCV-Workshop)"
+header:
+  teaser: /images/GLACIA.png
 paperurl: "https://doi.org/10.48550/arXiv.2512.09251"
 codeurl: "https://github.com/lalitmaurya47/GLACIA"
 citation: "Maurya Lalit, Kaushik Saurabh, Tellman Beth (2026). GLACIA: Instance-Aware Positional Reasoning for Glacial Lake Segmentation via Multimodal Large Language Model WACV (GeoCV-Workshop)"

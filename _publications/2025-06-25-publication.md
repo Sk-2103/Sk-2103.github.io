@@ -4,6 +4,10 @@ title: "DL4EO: A Unified Python Framework for Preparing Multi-Source Remote Sens
 collection: publications
 category: manuscripts
 permalink: /publication/2025-06-10-publication
+date: 2025-06-25
+venue: "Under Review"
+header:
+  teaser: /images/dl4eo_1.png
 show_date: false
 paperurl: ""
 citation: "Kaushik, S., Tellman, B. (2025). DL4EO: A Unified Python Framework for Preparing Multi-Source Remote Sensing Data for any Segmentation Task. (Under-Review)."

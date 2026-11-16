@@ -5,6 +5,8 @@ category: manuscripts
 permalink: /publication/2026-03-02-publication
 date: 2026-03-02
 venue: "Pre-Print"
+header:
+  teaser: /images/Fig.1.png
 paperurl: "https://arxiv.org/abs/2603.01576"
 codeurl: "https://github.com/Sk-2103/Cryo-Bench"
 citation: "Kaushik, S., Maurya, L., Tellman, B., Roy, S. K., Marsocci, V., Camps-Valls, G., Chanussot, J. (2026). Cryo-Bench: Benchmarking Foundation Models for Cryosphere Applications. arXiv preprint arXiv:2603.01576."

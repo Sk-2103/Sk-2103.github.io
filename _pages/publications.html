@@ -15,37 +15,43 @@ author_profile: true
       {% if post.category != category[0] %}{% continue %}{% endif %}
 
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
+        <h2 class="archive__subtitle">{{ category[1].title }}</h2>
+        <div class="list__item">
         {% assign title_shown = true %}
       {% endunless %}
 
-      <article>
-        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-
-        {% if post.venue %}
-        <p class="page__meta">
-          Published in {{ post.venue }}{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
-        </p>
+      <article class="archive__item pub-row">
+        {% if post.header.teaser %}
+          <a class="pub-row__thumb" href="{{ post.url | relative_url }}">
+            <img src="{{ post.header.teaser | relative_url }}" alt="">
+          </a>
         {% endif %}
-
-        {{ post.content }}
-        <hr />
+        <div class="pub-row__body">
+          <h3 class="archive__item-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          {% if post.venue %}
+            <p>{{ post.venue }}{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}</p>
+          {% endif %}
+        </div>
       </article>
     {% endfor %}
+    {% if title_shown %}</div>{% endif %}
   {% endfor %}
 {% else %}
+  <div class="list__item">
   {% for post in site.publications reversed %}
-    <article>
-      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-
-      {% if post.venue %}
-      <p class="page__meta">
-        Published in {{ post.venue }}{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
-      </p>
+    <article class="archive__item pub-row">
+      {% if post.header.teaser %}
+        <a class="pub-row__thumb" href="{{ post.url | relative_url }}">
+          <img src="{{ post.header.teaser | relative_url }}" alt="">
+        </a>
       {% endif %}
-
-      {{ post.content }}
-      <hr />
+      <div class="pub-row__body">
+        <h3 class="archive__item-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        {% if post.venue %}
+          <p>{{ post.venue }}{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}</p>
+        {% endif %}
+      </div>
     </article>
   {% endfor %}
+  </div>
 {% endif %}

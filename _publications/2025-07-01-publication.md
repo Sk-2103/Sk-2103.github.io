@@ -4,6 +4,10 @@ title: "Glacial-Lake-Bench: A Global Multi-Sensor Benchmark Dataset for Evaluati
 collection: publications
 category: manuscripts
 status: "Published"
+date: 2026-07-09
+venue: "Earth System Science Data (ESSD)"
+header:
+  teaser: /images/GLB.png
 paperurl: "https://doi.org/10.5194/essd-2026-474"
 citation: "Kaushik, S., Tellman, B., Howat, I., Haritashya, U. (2026). Glacial-Lake-Bench: A Global Multi-Sensor Benchmark Dataset for Evaluating Deep Learning Models for Glacial Lake Mapping. Earth System Science Data (ESSD). https://doi.org/10.5194/essd-2026-474"
 permalink: /publication/beyond-clouds/
