@@ -18,7 +18,7 @@ citation: "Kaushik, S., Tellman, B. (2025). DL4EO: A Unified Python Framework fo
 <p><strong>Status:</strong> Under-Review</p>
 
 <figure style="text-align: center;">
-  <img src="{{ '/images/dl4eo_1.png' | relative_url }}" alt="DL4EO overall workflow" style="width: 60%;">
+  <img src="{{ '/images/dl4eo_1.png' | relative_url }}" alt="DL4EO overall workflow" style="width: 85%;">
   <figcaption style="font-size: 14px; color: gray;">
     Figure: Overall workflow of the DL4EO package, subdivided into four parts:
     (1) acquiring and processing Sentinel-2, (2) acquiring and processing topographic layers,
@@ -27,7 +27,7 @@ citation: "Kaushik, S., Tellman, B. (2025). DL4EO: A Unified Python Framework fo
 </figure>
 
 <figure style="text-align: center;">
-  <img src="{{ '/images/dl4eo_2.png' | relative_url }}" alt="DL4EO example usage for glacial lake segmentation" style="width: 60%;">
+  <img src="{{ '/images/dl4eo_2.png' | relative_url }}" alt="DL4EO example usage for glacial lake segmentation" style="width: 85%;">
   <figcaption style="font-size: 14px; color: gray;">
     Figure: Example DL4EO use case generating multi-source remote sensing inputs
     for glacial lake segmentation in Central Europe.
@@ -35,7 +35,7 @@ citation: "Kaushik, S., Tellman, B. (2025). DL4EO: A Unified Python Framework fo
 </figure>
 
 <figure style="text-align: center;">
-  <img src="{{ '/images/dl4eo_3.png' | relative_url }}" alt="DL4EO Python code example" style="width: 60%;">
+  <img src="{{ '/images/dl4eo_3.png' | relative_url }}" alt="DL4EO Python code example" style="width: 85%;">
   <figcaption style="font-size: 14px; color: gray;">
     Figure: Python example for generating training and validation datasets for Earth Observation segmentation tasks.
   </figcaption>

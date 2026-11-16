@@ -12,7 +12,7 @@ codeurl: "https://github.com/Sk-2103/Prithvi-CAFE"
 citation: "Kaushik Saurabh, Maurya Lalit, Tellman Beth (2026). Prithvi-Complimentary Adaptive Fusion Encoder (CAFE): unlocking full-potential for flood inundation mapping (CV4EO-Workshop)"
 ---
 <figure style="text-align: center;">
-    <img src="../images/CAFE.png" alt="Landslide Susceptibility Assessment" style="width: 60%;">
+    <img src="../images/CAFE.png" alt="Landslide Susceptibility Assessment" style="width: 85%;">
     <figcaption style="font-size: 14px; color: gray;">
         Figure: Overview of  Prithvi-CAFE architecture.
     </figcaption>

@@ -6,6 +6,8 @@ category: manuscripts
 permalink: /publication/2025-02-01-paper-title-number-1/
 date: 2025-02-01
 venue: "Water Resources Research"
+header:
+  teaser: /images/WRR1.jpg
 paperurl: "https://doi.org/10.1029/2024WR038279"
 citation: "Dharpure, J. K., Howat, I. M., & Kaushik, S. (2025). Declining groundwater storage in the Indus basin revealed using GRACE and GRACE‐FO data. Water Resources Research, 61(2), e2024WR038279."
 ---
@@ -13,7 +15,7 @@ citation: "Dharpure, J. K., Howat, I. M., & Kaushik, S. (2025). Declining ground
 {% include base_path %}
 
 <figure style="text-align: center;">
-  <img src="{{ '/images/WRR1.jpg' | relative_url }}" alt="Indus basin GWSA trends map and heatmap" style="width: 60%;">
+  <img src="{{ '/images/WRR1.jpg' | relative_url }}" alt="Indus basin GWSA trends map and heatmap" style="width: 85%;">
   <figcaption style="font-size: 14px; color: gray;">
     Spatial distribution of GWSA trends at seasonal scales (a–d) and annually (e), with significance levels at p &lt; 0.05. (f) shows the heatmap of monthly GWSA values and their corresponding mean monthly and annual values from April 2002 to May 2023.
   </figcaption>

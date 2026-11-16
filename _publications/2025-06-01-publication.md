@@ -6,18 +6,20 @@ permalink: /publication/2025-06-01-publication
 date: 2025-12-01
 show_date: false
 venue: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing'
+header:
+  teaser: /images/CVPR.png
 paperurl: "https://ieeexplore.ieee.org/abstract/document/11362928"
 citation: "Kaushik, S., Maurya, L., Tellman, B., Zhang, Z., & Dharpure, J.K. (2025). Assessing the value of Geo-Foundational Models for Flood Inundation Mapping: Benchmarking models for Sentinel-1, Sentinel-2, and Planetscope for end-users. (Under-Review)"
 ---
 
 <figure style="text-align: center;">
-    <img src="../images/CVPR.png" alt="Landslide Susceptibility Assessment" style="width: 60%;">
+    <img src="../images/CVPR.png" alt="Landslide Susceptibility Assessment" style="width: 85%;">
     <figcaption style="font-size: 14px; color: gray;">
         Figure: A visual analysis of model performance showing Clay, Prithvi, DOFA GFMs outperform traditional CNN models and vision transformers (TransNorm). Yellow boxes show examples of false positive classification by models.
     </figcaption>
 </figure>
 <figure style="text-align: center;">
-    <img src="../images/Clay.jpg" alt="Landslide Susceptibility Assessment" style="width: 60%;">
+    <img src="../images/Clay.jpg" alt="Landslide Susceptibility Assessment" style="width: 85%;">
     <figcaption style="font-size: 14px; color: gray;">
         Figure: Fine-tuning Clay Geo-Foundation Model for flood inundation mapping.
     </figcaption>

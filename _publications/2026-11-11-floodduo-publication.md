@@ -15,7 +15,7 @@ citation: "Kaushik, S., Tellman, B., Weng, Q. (2026). FloodDuo: A Dual Foundatio
 <p><strong>Status:</strong> Published in <a href="https://doi.org/10.1016/j.isprsjprs.2026.10.041" target="_blank" rel="noopener">ISPRS Journal of Photogrammetry and Remote Sensing</a> · <a href="https://github.com/Sk-2103/FloodDuo" target="_blank" rel="noopener">Code</a> · <a href="https://huggingface.co/Sk-21/FloodDuo" target="_blank" rel="noopener">Model (Hugging Face)</a></p>
 
 <figure style="text-align: center;">
-  <img src="{{ '/images/floodduo_architecture.png' | relative_url }}" alt="FloodDuo dual-encoder architecture" style="width: 75%;">
+  <img src="{{ '/images/floodduo_architecture.png' | relative_url }}" alt="FloodDuo dual-encoder architecture" style="width: 85%;">
   <figcaption style="font-size: 14px; color: gray;">
     Figure: FloodDuo pairs two frozen foundation-model encoders — DINOv3-L (RGB) for spatial/boundary detail and Clay v1.5 (4-band) for spectral discrimination — each adapted with lightweight trainable modules, merged through a disagreement-gated fusion, and decoded with LinkNet into the final flood mask.
   </figcaption>

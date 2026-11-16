@@ -12,7 +12,7 @@ codeurl: "https://github.com/Sk-2103/Cryo-Bench"
 citation: "Kaushik, S., Maurya, L., Tellman, B., Roy, S. K., Marsocci, V., Camps-Valls, G., Chanussot, J. (2026). Cryo-Bench: Benchmarking Foundation Models for Cryosphere Applications. arXiv preprint arXiv:2603.01576."
 ---
 <figure style="text-align: center;">
-    <img src="../images/Fig.1.png" alt="Landslide Susceptibility Assessment" style="width: 60%;">
+    <img src="../images/Fig.1.png" alt="Landslide Susceptibility Assessment" style="width: 85%;">
     <figcaption style="font-size: 14px; color: gray;">
         Figure: A Benchmark for Evaluating Geospatial Foundation Models on Cryosphere Applications.
     </figcaption>

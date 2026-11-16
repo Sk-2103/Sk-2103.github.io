@@ -12,7 +12,7 @@ codeurl: "https://github.com/lalitmaurya47/GLACIA"
 citation: "Maurya Lalit, Kaushik Saurabh, Tellman Beth (2026). GLACIA: Instance-Aware Positional Reasoning for Glacial Lake Segmentation via Multimodal Large Language Model WACV (GeoCV-Workshop)"
 ---
 <figure style="text-align: center;">
-    <img src="../images/GLACIA.png" alt="Landslide Susceptibility Assessment" style="width: 60%;">
+    <img src="../images/GLACIA.png" alt="Landslide Susceptibility Assessment" style="width: 85%;">
     <figcaption style="font-size: 14px; color: gray;">
         Figure: Conceptual shift from traditional segmentation (a) and VQA-based reasoning (b) to our reasoning-driven paradigm (c), which unifies accurate instance-specific masks with interpretable positional reasoning.
     </figcaption>
@@ -25,7 +25,7 @@ citation: "Maurya Lalit, Kaushik Saurabh, Tellman Beth (2026). GLACIA: Instance-
 </style>
 
 <figure style="text-align: center;">
-    <img src="../images/main.jpg" alt="Landslide Susceptibility Assessment" style="width: 60%;">
+    <img src="../images/main.jpg" alt="Landslide Susceptibility Assessment" style="width: 85%;">
     <figcaption style="font-size: 14px; color: gray;">
         Figure: Overview of the proposed architecture of GLACIA.
     </figcaption>

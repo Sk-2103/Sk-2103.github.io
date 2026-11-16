@@ -7,10 +7,16 @@ date: 2019-07-01
 venue: "International Journal of Remote Sensing"
 paperurl: "https://doi.org/10.1080/01431161.2019.1582114"
 citation: "Kaushik, S.*, Joshi, P. K., & Singh, T. (2019). Development of glacier mapping in Indian Himalaya: a review of approaches. International Journal of Remote Sensing."
+header:
+  teaser: /images/review-icon.png
 ---
 
-
-
+<figure style="text-align: center;">
+  <img src="{{ '/images/review-icon.png' | relative_url }}" alt="Illustration of satellite remote sensing review of glacier mapping" style="width: 55%;">
+  <figcaption style="font-size: 14px; color: gray;">
+    Illustrative graphic (not a figure from the paper) — this is a review article with no original figures.
+  </figcaption>
+</figure>
 
 <style>
   /* Page-scoped abstract size tweak */
